@@ -1,12 +1,11 @@
-👋 Hey there! I am a computer networking enthusiast on a journey through the world of low-level programming. Currently, I'm honing my skills in Go, with plans to explore C and Rust in the near future.
+# 💫 About Me:
+🌱 My roadmap : Go -> C -> Rust<br>🤩 My interests are in Systems Programming and Networking </br> 🔗 Connect with me on Discord: daemon_surge_suzuya<br>🧠 Technologies I'm Exploring: Concurrency, Git, Assembly Language, <br>💬 You can ask me anything lol<br>
 
-💡 I find the intricacies of computer networks fascinating, and I'm passionate about delving into the nitty-gritty of protocols, packet handling, tinkering with hardware and systems programming.
 
-🌱 My roadmap is clear: Go -> C -> Rust. I'm diving into Go first, and I'm excited to uncover the power of this language for networking tasks. C and Rust are next on the list, as I explore the world of systems programming.
+# 💻 Tech Stack:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=daemon-surge-suzuya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=daemon-surge-suzuya&theme=tokyonight&hide_border=false)<br/>
 
-🤝 If you happen to know of any projects where you think I could lend a hand or if you're looking for some assistance yourself, feel free to reach out to me on Discord. My Discord ID is: daemon_surge_suzuya 
-
-<!---
-daemon-surge-suzuya/daemon-surge-suzuya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
