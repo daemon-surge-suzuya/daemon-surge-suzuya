@@ -1,4 +1,4 @@
-👋 Hey there! I'm [Your Name], a computer networking enthusiast on a journey through the world of low-level programming. Currently, I'm honing my skills in Go, with plans to explore C and Rust in the near future.
+👋 Hey there! I am a computer networking enthusiast on a journey through the world of low-level programming. Currently, I'm honing my skills in Go, with plans to explore C and Rust in the near future.
 
 💡 I find the intricacies of computer networks fascinating, and I'm passionate about delving into the nitty-gritty of protocols, packet handling, tinkering with hardware and systems programming.
 
